@@ -26,7 +26,7 @@ A Python-based autonomous driving system that uses computer vision and deep lear
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SelfDrivePyAuto.git
+git clone https://github.com/Indirajith-jithu/SelfDrivePyAuto.git
 cd SelfDrivePyAuto
 
 # Install required packages
